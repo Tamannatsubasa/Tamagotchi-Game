@@ -17,3 +17,6 @@ You will set a password to access the parental controls. You will have the optio
 
 ## JavaDoc
 The JavaDoc for these files are attached in the docs folder in the repository
+
+## YouTube Walkthrough Video
+https://www.youtube.com/watch?v=d1L8Dd68ME8&ab_channel=WyattCassiotis
