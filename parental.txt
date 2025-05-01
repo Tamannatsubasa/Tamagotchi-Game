@@ -1,0 +1,6 @@
+allowedStart=
+allowedEnd=
+timeControlEnabled=
+totalPlayTime=
+sessionCount=
+password=

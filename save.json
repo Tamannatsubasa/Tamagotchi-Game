@@ -1,0 +1,17 @@
+{
+  "score": "0",
+  "inventory": {
+    "salmon": 0,
+    "tenis ball": 0,
+    "kibble": 0,
+    "steak": 0,
+    "bandage": 0,
+    "magic potions": 0
+  },
+  "pets": [
+    null,
+    null,
+    null,
+    null
+  ]
+}
